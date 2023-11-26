@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="button_create_game_id" type="id" />
+    <item name="button_join_game_id" type="id" />
+
+    <item name="textView1_create_game_id" type="id" />
+    <item name="textView2_create_game_id" type="id" />
+    <item name="textView3_join_game_id" type="id" />
+
+    <item name="editText1_create_game_id" type="id" />
+    <item name="editText2_create_game_id" type="id" />
+    <item name="editText3_join_game_id" type="id" />
+
+    <item name="RadioGroup_id" type="id" />
+
+    <item name="RadioButton1_id" type="id" />
+    <item name="RadioButton2_id" type="id" />
+    <item name="RadioButton3_id" type="id" />
+
+
+    <item name="textView_adr_game_id" type="id" />
+    <item name="textView_adr_game_result_id" type="id" />
+    <item name="textView_bet_amount_id" type="id" />
+    <item name="textView_bet_amount_result_id" type="id" />
+    <item name="textView_choice_id" type="id" />
+    <item name="textView_choice_result_id" type="id" />
+    <item name="textView_finish_result_id" type="id" />
+
+    <item name="button_finish_game_id" type="id" />
+
+    <item name="editText3_id" type="id" />
+
+
+
+
+</resources>

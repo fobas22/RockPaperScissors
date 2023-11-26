@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">KP_Rock_Paper_Scissors</string>
+
+    <string name="button_create_game_str">Создать игру</string>
+    <string name="button_join_game_str">Присоединиться к игре</string>
+
+    <string name="textView1_create_game_str">Введите приватный ключ:</string>
+    <string name="textView2_create_game_str">Введите сумму ставки:</string>
+    <string name="textView3_join_game_str">Введите адрес игры:</string>
+
+    <string name="editText1_create_game_str">hex</string>
+    <string name="editText2_create_game_str">num</string>
+    <string name="editText3_join_game_str">add</string>
+
+    <string name="RadioButton1_str">Камень</string>
+    <string name="RadioButton2_str">Ножницы</string>
+    <string name="RadioButton3_str">Бумага</string>
+
+
+    <string name="textView_adr_game_str">Адрес игры:</string>
+    <string name="textView_adr_game_result_str"> </string>
+    <string name="textView_bet_amount_str">Общая ставка:</string>
+    <string name="textView_bet_amount_result_str"> </string>
+    <string name="textView_choice_str">Ваш выбор руки:</string>
+    <string name="textView_choice_result_str"> </string>
+    <string name="textView_finish_result_str"> </string>
+
+    <string name="button_finish_game_str">Закончить игру</string>
+
+</resources>
